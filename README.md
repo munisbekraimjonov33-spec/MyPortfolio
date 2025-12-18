@@ -57,3 +57,4 @@ Agar sizga ham shunday zamonaviy sayt kerak bo'lsa, bog'laning:
 
 ⭐️ Loyiha yoqqan bo'lsa, Star (yulduzcha) bosishni unutmang!# Portfolio
 # Portfolio
+# MyPortfolio
