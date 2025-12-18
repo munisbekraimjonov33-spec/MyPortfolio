@@ -1,8 +1,6 @@
 ✨ Munisbek Raimjonov | Shaxsiy Portfolio 🚀
 Ushbu loyiha mening dasturlashdagi mahoratimni ko'rsatuvchi zamonaviy va interaktiv Portfolio veb-sayti. Bu shunchaki sayt emas, balki foydalanuvchilar bilan muloqot qiluvchi aqlli platformadir! 💎
 
-![Asosiy oyna](./images/Снимок%20экрана_20251129_180008.png)
-
 🌟 Saytning Asosiy Imkoniyatlari
 1️⃣ Ko'p Tillilik (Multi-language) 🌍
 Sayt dunyo bo'ylab foydalanuvchilar tushunishi uchun 3 xil tilda ishlaydi. Bir tugma bilan butun sayt matnini o'zgartirishingiz mumkin:
@@ -26,13 +24,9 @@ Smooth Scroll: Sahifalararo o'tish juda yumshoq va yoqimli. 🌊
 🛠 Texnik Quvvat (Tools)
 Ushbu loyihani yaratishda eng zamonaviy texnologiyalardan foydalanilgan:
 
-🎨 HTML5 & CSS3 — Mukammal dizayn va struktura.
+🎨 HTML & CSS — Mukammal dizayn va struktura.
 
 ⚡ JavaScript — Saytning "miyasi" va barcha harakatlar.
-
-🖖 Vue.js — Ma'lumotlarni aqlli boshqarish uchun.
-
-💅 FontAwesome — Chiroyli ikonkalar to'plami.
 
 📁 Loyihadan namunalar
 📱 Mobil Versiya
