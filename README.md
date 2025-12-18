@@ -7,11 +7,7 @@ Ushbu loyiha mening dasturlashdagi mahoratimni ko'rsatuvchi zamonaviy va interak
 1️⃣ Ko'p Tillilik (Multi-language) 🌍
 Sayt dunyo bo'ylab foydalanuvchilar tushunishi uchun 3 xil tilda ishlaydi. Bir tugma bilan butun sayt matnini o'zgartirishingiz mumkin:
 
-🇺🇿 O'zbekcha
-
-🇺🇸 English
-
-🇷🇺 Русский
+Sayt havolasi https://my-portfolio-uzb-five.vercel.app/
 
 2️⃣ Aqlli Tizimlar (Smart Features) 🧠
 AI Chatbot: Saytda sizga yordam beradigan sun'iy intellekt yordamchisi mavjud. U bilan real vaqtda muloqot qilish mumkin! 🤖
